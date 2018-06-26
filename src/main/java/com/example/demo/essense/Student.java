@@ -49,4 +49,28 @@ public class Student {
     public void setId(Integer id) {
         this.id = id;
     }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public void setLastname(String lastname) {
+        this.lastname = lastname;
+    }
+
+    public void setCourse(String course) {
+        this.course = course;
+    }
+
+    public void setSpecialty(String specialty) {
+        this.specialty = specialty;
+    }
+
+    public void setAttendance(String attendance) {
+        this.attendance = attendance;
+    }
+
+    public void setAcperformance(String acperformance) {
+        this.acperformance = acperformance;
+    }
 }
